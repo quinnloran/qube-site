@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>The QUBE Blog</title>
+    <link>https://qubehydration.com/blog/</link>
+    <description>Plain-English reads on training, recovery and the research behind what goes in your glass.</description>
+    <language>en-us</language>
+    <item>
+      <title>Creatine for athletes: what the research shows</title>
+      <link>https://qubehydration.com/blog/creatine-monohydrate-for-athletes/</link>
+      <guid>https://qubehydration.com/blog/creatine-monohydrate-for-athletes/</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 -0400</pubDate>
+      <description>What creatine monohydrate does in muscle, what the International Society of Sports Nutrition concluded, and what is still unproven for recovery.</description>
+    </item>
+  </channel>
+</rss>
