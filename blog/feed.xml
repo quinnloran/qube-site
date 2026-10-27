@@ -6,22 +6,6 @@
     <description>Plain-English reads on training, recovery and the research behind what goes in your glass.</description>
     <language>en-us</language>
     <item>
-blog/2026-10-22-when-to-take-creatine
-      <title>When to take creatine: does timing really matter?</title>
-      <link>https://qubehydration.com/blog/when-to-take-creatine/</link>
-      <guid>https://qubehydration.com/blog/when-to-take-creatine/</guid>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 -0400</pubDate>
-      <description>When to take creatine: before, after or any time? What a 2021 review and a pre vs post workout trial found, and why daily consistency matters.</description>
-
-      blog/2026-10-23-tart-cherry-for-sleep
-      blog/2026-10-23-tart-cherry-for-sleep
-      <title>Tart cherry for sleep: what the research shows</title>
-      <link>https://qubehydration.com/blog/tart-cherry-for-sleep/</link>
-      <guid>https://qubehydration.com/blog/tart-cherry-for-sleep/</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 -0400</pubDate>
-      <description>Does tart cherry help sleep? A 2025 systematic review and a small trial in elite athletes show promise, but the evidence is limited.</description>
-
-
       <title>Creatine for female athletes: what research shows</title>
       <link>https://qubehydration.com/blog/creatine-for-female-athletes/</link>
       <guid>https://qubehydration.com/blog/creatine-for-female-athletes/</guid>
@@ -36,14 +20,25 @@ blog/2026-10-22-when-to-take-creatine
       <description>A 1996 muscle biopsy study and two ISSN papers on creatine loading versus a steady daily dose, and what the trade-off is.</description>
     </item>
     <item>
-main
       <title>Magnesium for muscle cramps: what athletes should know</title>
       <link>https://qubehydration.com/blog/magnesium-for-muscle-cramps/</link>
       <guid>https://qubehydration.com/blog/magnesium-for-muscle-cramps/</guid>
       <pubDate>Sat, 24 Oct 2026 12:00:00 -0400</pubDate>
       <description>A Cochrane review of 11 trials and a sports medicine review on what the research says about magnesium and muscle cramps, and what it does not.</description>
-main
-main
+    </item>
+    <item>
+      <title>Tart cherry for sleep: what the research shows</title>
+      <link>https://qubehydration.com/blog/tart-cherry-for-sleep/</link>
+      <guid>https://qubehydration.com/blog/tart-cherry-for-sleep/</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 -0400</pubDate>
+      <description>Does tart cherry help sleep? A 2025 systematic review and a small trial in elite athletes show promise, but the evidence is limited.</description>
+    </item>
+    <item>
+      <title>When to take creatine: does timing really matter?</title>
+      <link>https://qubehydration.com/blog/when-to-take-creatine/</link>
+      <guid>https://qubehydration.com/blog/when-to-take-creatine/</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 -0400</pubDate>
+      <description>When to take creatine: before, after or any time? What a 2021 review and a pre vs post workout trial found, and why daily consistency matters.</description>
     </item>
     <item>
       <title>Curcumin for muscle soreness: what studies show</title>
